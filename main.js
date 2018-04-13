@@ -48,7 +48,7 @@ Plot.post = function post(o) {
      'camisa-feminina-jeans-manga-longa-azul-escuro':'https://fnagano.github.io/jeans/Blusa4.jpg',
      'camisa-jeans-feminina-manga-longa-azul-escuro':'https://fnagano.github.io/jeans/Blusa5.jpg',
      'camisa-jeans-bolso':'https://fnagano.github.io/jeans/Blusa6.jpg',
-     'camisa-jeans-textura':'https://fnagano.github.io/jeans/Blusa7.jpg',
+     'camisa-jeans-textura':'https://fnagano.github.io/jeans/BLusa7.jpg',
      'camisa-jeans-básica':'https://fnagano.github.io/jeans/Blusa8.jpg',
      'camisa-jeans-alongada':'https://fnagano.github.io/jeans/Blusa9.jpg',
  };    
