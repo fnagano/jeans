@@ -43,14 +43,14 @@ Plot.post = function post(o) {
 
  var artistToUrl = {
      'camisa-jeans-Alongada':'https://fnagano.github.io/jeans/Blusa1.jpg',
-     'camisa-jeans-Bolso':'https://fnagano.github.io/jeans/Blusa2.jpg',
+     'camisa-jeans-Bolsos':'https://fnagano.github.io/jeans/Blusa2.jpg',
      'camisa-jeans-azul-médio':'https://fnagano.github.io/jeans/Blusa3.jpg',
      'camisa-feminina-jeans-manga-longa-azul-escuro':'https://fnagano.github.io/jeans/Blusa4.jpg',
      'camisa-jeans-feminina-manga-longa-azul-escuro':'https://fnagano.github.io/jeans/Blusa5.jpg',
      'camisa-jeans-bolso':'https://fnagano.github.io/jeans/Blusa6.jpg',
      'camisa-jeans-textura':'https://fnagano.github.io/jeans/BLusa7.jpg',
      'camisa-jeans-básica':'https://fnagano.github.io/jeans/Blusa8.jpg',
-     'camisa-jeans-alongada':'https://fnagano.github.io/jeans/Blusa9.jpg',
+     'camisa-jeans':'https://fnagano.github.io/jeans/Blusa9.jpg',
  };    
 
 
