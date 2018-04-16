@@ -68,6 +68,6 @@ Plot.onHover = function(message) {
     Plot.hoverImg.src = imgSrc;
 };
 
-Plot.init();
+Plot.init.resize();
 
 })();
