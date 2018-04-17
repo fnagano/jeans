@@ -50,7 +50,7 @@ Plot.post = function post(o) {
      'camisa-jeans-bolso':'https://fnagano.github.io/jeans/Blusa6.jpg',
      'camisa-jeans-textura':'https://fnagano.github.io/jeans/BLusa7.jpg',
      'camisa-jeans-básica':'https://fnagano.github.io/jeans/Blusa8.jpg',
-     'camisa-jeans':'https://fnagano.github.io/jeans/Blusa9.jpg',
+     'camisa-jeans':'https://fnagano.github.io/jeans/Blusa9.jpg'
  };    
 
 
@@ -68,6 +68,6 @@ Plot.onHover = function(message) {
     Plot.hoverImg.src = imgSrc;
 };
 
-Plot.init.resize();
+Plot.init();
 
 })();
